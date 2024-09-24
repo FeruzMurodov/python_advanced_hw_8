@@ -1,0 +1,11 @@
+name	path	type	size	parent
+zad_2	D:\Python projects\Advanced_python_course\HW_8\data\zad_2	directory	676	data
+zad_3	D:\Python projects\Advanced_python_course\HW_8\data\zad_3	directory	281	data
+zad_4	D:\Python projects\Advanced_python_course\HW_8\data\zad_4	directory	106	data
+zad_5	D:\Python projects\Advanced_python_course\HW_8\data\zad_5	directory	400	data
+employees1.json	D:\Python projects\Advanced_python_course\HW_8\data\zad_2\employees1.json	file	277	zad_2
+employees2.json	D:\Python projects\Advanced_python_course\HW_8\data\zad_2\employees2.json	file	260	zad_2
+employees3.json	D:\Python projects\Advanced_python_course\HW_8\data\zad_2\employees3.json	file	139	zad_2
+products.json	D:\Python projects\Advanced_python_course\HW_8\data\zad_3\products.json	file	281	zad_3
+sales.csv	D:\Python projects\Advanced_python_course\HW_8\data\zad_4\sales.csv	file	106	zad_4
+students.json	D:\Python projects\Advanced_python_course\HW_8\data\zad_5\students.json	file	400	zad_5

@@ -1,0 +1,72 @@
+[
+    {
+        "name": "zad_2",
+        "path": "D:\\Python projects\\Advanced_python_course\\HW_8\\data\\zad_2",
+        "type": "directory",
+        "size": 676,
+        "parent": "data"
+    },
+    {
+        "name": "zad_3",
+        "path": "D:\\Python projects\\Advanced_python_course\\HW_8\\data\\zad_3",
+        "type": "directory",
+        "size": 281,
+        "parent": "data"
+    },
+    {
+        "name": "zad_4",
+        "path": "D:\\Python projects\\Advanced_python_course\\HW_8\\data\\zad_4",
+        "type": "directory",
+        "size": 106,
+        "parent": "data"
+    },
+    {
+        "name": "zad_5",
+        "path": "D:\\Python projects\\Advanced_python_course\\HW_8\\data\\zad_5",
+        "type": "directory",
+        "size": 400,
+        "parent": "data"
+    },
+    {
+        "name": "employees1.json",
+        "path": "D:\\Python projects\\Advanced_python_course\\HW_8\\data\\zad_2\\employees1.json",
+        "type": "file",
+        "size": 277,
+        "parent": "zad_2"
+    },
+    {
+        "name": "employees2.json",
+        "path": "D:\\Python projects\\Advanced_python_course\\HW_8\\data\\zad_2\\employees2.json",
+        "type": "file",
+        "size": 260,
+        "parent": "zad_2"
+    },
+    {
+        "name": "employees3.json",
+        "path": "D:\\Python projects\\Advanced_python_course\\HW_8\\data\\zad_2\\employees3.json",
+        "type": "file",
+        "size": 139,
+        "parent": "zad_2"
+    },
+    {
+        "name": "products.json",
+        "path": "D:\\Python projects\\Advanced_python_course\\HW_8\\data\\zad_3\\products.json",
+        "type": "file",
+        "size": 281,
+        "parent": "zad_3"
+    },
+    {
+        "name": "sales.csv",
+        "path": "D:\\Python projects\\Advanced_python_course\\HW_8\\data\\zad_4\\sales.csv",
+        "type": "file",
+        "size": 106,
+        "parent": "zad_4"
+    },
+    {
+        "name": "students.json",
+        "path": "D:\\Python projects\\Advanced_python_course\\HW_8\\data\\zad_5\\students.json",
+        "type": "file",
+        "size": 400,
+        "parent": "zad_5"
+    }
+]
